@@ -1,0 +1,34 @@
+
+.container {
+   width:75%;
+   border:1px solid black;
+   margin:1.5rem auto;
+   text-align: center;
+}
+
+table,tr,td,th{
+    width:15%;
+    border:1px solid black;
+    margin:2rem auto;
+    text-align: center;
+}
+
+.playground, .row2 {
+    display: flex;
+    border:1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-image: url(green_bg.jpeg);
+    background-size: cover;
+    color: white;
+}
+
+.playground div{
+    border:1px solid black;
+    height: 400px;
+    flex:1; /*equal priority */
+    padding-top: 1rem;
+}
+
+
