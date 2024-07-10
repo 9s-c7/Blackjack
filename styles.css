@@ -19,7 +19,7 @@ table,tr,td,th{
     padding: 10px;
     flex-wrap: wrap;
     justify-content: space-around;
-    background-image: url(images/green_bg.jpeg);
+    background-image: url('images/green_bg.jpeg');
     background-size: cover;
     color: white;
 }
