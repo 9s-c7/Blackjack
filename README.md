@@ -13,6 +13,6 @@ Upon winning , a _kaching_ sound is played, while on losing an _aww_ sound is pl
 
 All the face cards have a value of 10 , Ace has a value of 1.
 
-Here is the game : https://blackjack-c7-jq4j672vd-9sc7s-projects.vercel.app/
+Here is the game :https://blackjack-c7.vercel.app/
 
 Have fun playing the game!
